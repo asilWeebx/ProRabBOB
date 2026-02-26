@@ -713,7 +713,7 @@ export default function ProrabBob() {
               <h2 className="section-title">BOG'LA<span style={{ color:"#F5C518" }}>NISH</span></h2>
               <p style={{ fontFamily:"'Barlow',sans-serif", fontSize:17, color:"#888", marginTop:24, lineHeight:1.8, marginBottom:48 }}>Loyihangizni muhokama qilish uchun bog'laning.</p>
               <div style={{ display:"flex", flexDirection:"column", gap:28 }}>
-                {[{icon:"📞",label:"Telefon",value:"+998 XX XXX XX XX",href:"tel:+998"},{icon:"✈️",label:"Telegram",value:"@prorabbob",href:"https://t.me/prorabbob"},{icon:"📧",label:"Email",value:"info@prorabbob.uz",href:"mailto:info@prorabbob.uz"}].map((c,i) => (
+                {[{icon:"📞",label:"Telefon",value:"+998 94 526 3333",href:"tel:+998"},{icon:"✈️",label:"Telegram",value:"@prorabbob",href:"https://t.me/prorabbob"},{icon:"📧",label:"Email",value:"bobmaxsus@gmail.com",href:"mailto:info@prorabbob.uz"}].map((c,i) => (
                   <a key={i} href={c.href} style={{ display:"flex", alignItems:"center", gap:20, textDecoration:"none" }}>
                     <div style={{ width:56, height:56, background:"rgba(245,197,24,.1)", border:"1px solid rgba(245,197,24,.3)", display:"flex", alignItems:"center", justifyContent:"center", fontSize:22, flexShrink:0 }}>{c.icon}</div>
                     <div>
