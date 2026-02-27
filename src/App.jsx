@@ -581,9 +581,9 @@ export default function ProrabBob() {
           <div className="two-col" style={{ display:"grid", gridTemplateColumns:"1fr 1fr", gap:80, alignItems:"center" }}>
             <div>
               <div className="yellow-line" />
-              <h2 className="section-title">MEN<br /><span style={{ color:"#F5C518" }}>HAQIMDA</span></h2>
+              <h2 className="section-title">MEN<br /><span style={{ color:"#F5C518" }}>Biz Haqimizda</span></h2>
               <p style={{ fontFamily:"'Barlow',sans-serif", fontSize:17, color:"#aaa", lineHeight:1.8, marginTop:28, marginBottom:28 }}>
-                Men — <strong style={{ color:"#fff" }}>Prorab Bob</strong>. Yo'l qurilishi va asfalt yotqizish sohasida <strong style={{ color:"#F5C518" }}>2000 kilometrdan ortiq</strong> tajribaga egaman.
+              <strong style={{ color:"#fff" }}>Prorab Bob</strong>. Yo'l qurilishi va asfalt yotqizish sohasida <strong style={{ color:"#F5C518" }}>2000 kilometrdan ortiq</strong> tajribaga egaman.
               </p>
               <p style={{ fontFamily:"'Barlow',sans-serif", fontSize:17, color:"#aaa", lineHeight:1.8, marginBottom:40 }}>
                 Davlat va xususiy sektorlardagi buyurtmachilarga eng yuqori sifatli yo'l qurilish xizmatlarini ko'rsatishni maqsad qilganman.
@@ -756,7 +756,7 @@ export default function ProrabBob() {
             </div>
             <span style={{ fontFamily:"'Bebas Neue',sans-serif", fontSize:22, color:"#fff", letterSpacing:3 }}>PRORAB<span style={{ color:"#F5C518" }}>BOB</span>.UZ</span>
           </div>
-          <p style={{ fontFamily:"'Barlow',sans-serif", fontSize:14, color:"#444" }}>© 2024 ProrабBob.uz — Barcha huquqlar himoyalangan</p>
+          <p style={{ fontFamily:"'Barlow',sans-serif", fontSize:14, color:"#444" }}>© 2024 ProrabBob.uz — Barcha huquqlar himoyalangan</p>
           <p style={{ fontFamily:"'Barlow Condensed',sans-serif", fontSize:14, color:"#F5C518", letterSpacing:2 }}>SIFAT · TEZLIK · KAFOLAT</p>
         </div>
       </footer>
