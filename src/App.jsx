@@ -586,7 +586,7 @@ export default function ProrabBob() {
                Yo'l qurilishi va asfalt yotqizish sohasida <strong style={{ color:"#F5C518" }}>2000 kilometrdan ortiq</strong> tajriba.
               </p>
               <p style={{ fontFamily:"'Barlow',sans-serif", fontSize:17, color:"#aaa", lineHeight:1.8, marginBottom:40 }}>
-                Davlat va xususiy sektorlardagi buyurtmachilarga eng yuqori sifatli yo'l qurilish xizmatlarini ko'rsatishni maqsad qilganman.
+                Davlat va xususiy sektorlardagi buyurtmachilarga eng yuqori sifatli yo'l qurilish xizmatlarini ko'rsatishni maqsad qilganmiz.
               </p>
               <div style={{ display:"grid", gridTemplateColumns:"1fr 1fr", gap:12 }}>
                 {["Davlat va xususiy obyektlar","Ko'cha va ichki yo'llar","Sanoat hududlari","Qishloq va shahar infratuzilmasi"].map((item,i) => (
