@@ -138,7 +138,7 @@ const SERVICES = [
 const STATS = [
   { value: "2000+", label: "Kilometr Yo'l" },
   { value: "120+", label: "Loyiha" },
-  { value: "15+", label: "Yil Tajriba" },
+  { value: "7+", label: "Yil Tajriba" },
   { value: "98%", label: "Mijoz Mamnunligi" },
 ];
 
@@ -581,9 +581,9 @@ export default function ProrabBob() {
           <div className="two-col" style={{ display:"grid", gridTemplateColumns:"1fr 1fr", gap:80, alignItems:"center" }}>
             <div>
               <div className="yellow-line" />
-              <h2 className="section-title">MEN<br /><span style={{ color:"#F5C518" }}>Biz Haqimizda</span></h2>
+              <h2 className="section-title"><span style={{ color:"#F5C518" }}>Biz Haqimizda</span></h2>
               <p style={{ fontFamily:"'Barlow',sans-serif", fontSize:17, color:"#aaa", lineHeight:1.8, marginTop:28, marginBottom:28 }}>
-              <strong style={{ color:"#fff" }}>Prorab Bob</strong>. Yo'l qurilishi va asfalt yotqizish sohasida <strong style={{ color:"#F5C518" }}>2000 kilometrdan ortiq</strong> tajribaga egaman.
+               Yo'l qurilishi va asfalt yotqizish sohasida <strong style={{ color:"#F5C518" }}>2000 kilometrdan ortiq</strong> tajriba.
               </p>
               <p style={{ fontFamily:"'Barlow',sans-serif", fontSize:17, color:"#aaa", lineHeight:1.8, marginBottom:40 }}>
                 Davlat va xususiy sektorlardagi buyurtmachilarga eng yuqori sifatli yo'l qurilish xizmatlarini ko'rsatishni maqsad qilganman.
