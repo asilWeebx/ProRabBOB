@@ -555,7 +555,7 @@ export default function ProrabBob() {
                 <div style={{ fontFamily:"'Barlow Condensed',sans-serif", fontSize:18, color:"#888", letterSpacing:3, fontWeight:600, textTransform:"uppercase" }}>Kilometr Muvaffaqiyatli Topshirilgan</div>
               </div>
               <div className="four-col" style={{ display:"grid", gridTemplateColumns:"1fr 1fr", gap:16 }}>
-                {[{n:"120+",l:"Loyiha"},{n:"15+",l:"Yil Tajriba"},{n:"98%",l:"Mamnunlik"},{n:"24/7",l:"Qo'llab-quvvatlash"}].map((s,i) => (
+                {[{n:"120+",l:"Loyiha"},{n:"7+",l:"Yil Tajriba"},{n:"98%",l:"Mamnunlik"},{n:"24/7",l:"Qo'llab-quvvatlash"}].map((s,i) => (
                   <div key={i} style={{ background:"#111", border:"1px solid #1e1e1e", padding:"20px 16px", textAlign:"center" }}>
                     <div style={{ fontFamily:"'Bebas Neue',sans-serif", fontSize:36, color:"#fff" }}>{s.n}</div>
                     <div style={{ fontFamily:"'Barlow',sans-serif", fontSize:12, color:"#666", textTransform:"uppercase", letterSpacing:1 }}>{s.l}</div>
