@@ -658,7 +658,7 @@ export default function ProrabBob() {
             <div>
               <div className="yellow-line" />
               <h2 className="section-title">NIMA UCHUN<br /><span style={{ color:"#F5C518" }}>BIZ?</span></h2>
-              <p style={{ fontFamily:"'Barlow',sans-serif", fontSize:17, color:"#888", marginTop:24, lineHeight:1.8 }}>15 yillik tajriba, zamonaviy texnika va sifat kafolatigacha bo'lgan professional xizmat.</p>
+              <p style={{ fontFamily:"'Barlow',sans-serif", fontSize:17, color:"#888", marginTop:24, lineHeight:1.8 }}>7 yillik tajriba, zamonaviy texnika va sifat kafolatigacha bo'lgan professional xizmat.</p>
             </div>
             <div style={{ display:"grid", gridTemplateColumns:"1fr 1fr", gap:12 }}>
               {ADVANTAGES.map((a,i) => (
